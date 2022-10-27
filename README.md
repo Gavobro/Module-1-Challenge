@@ -1,6 +1,6 @@
 # Module-1-Challenge
 
-The URL of the deployed application can be copied below!: 
+The URL of the deployed application can be found here!: 
 https://gavobro.github.io/Module-1-Challenge-Gavin/02-Challenge/Develop/#social-media-marketing 
 
 # Fixes
